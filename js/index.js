@@ -1,0 +1,3 @@
+let auto = {
+    name: 'eng',
+}
